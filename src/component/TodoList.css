@@ -1,0 +1,16 @@
+.box__task{
+    background-color: #EDEDED;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    padding: 0 10px;
+    margin: 5px 0;
+    width: 80%;
+}
+.fa-trash-alt{
+    font-size: 1.5rem;
+    position: relative;
+    right: 0;   
+    left: 90%;
+    top: 10px;
+}
